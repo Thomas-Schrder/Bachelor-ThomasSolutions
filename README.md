@@ -1,1 +1,1 @@
-# Bachelor-ThomasSolutions
+# Bachelor_ThomasSolutions
